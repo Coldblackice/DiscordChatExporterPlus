@@ -13,6 +13,7 @@
     <PackageReference Include="Spectre.Console" Version="0.50.0" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Microsoft.NET.ILLink.Tasks" Version="9.0.8" />
     <ProjectReference Include="..\DiscordChatExporter.Core\DiscordChatExporter.Core.csproj" />
   </ItemGroup>
 </Project>
